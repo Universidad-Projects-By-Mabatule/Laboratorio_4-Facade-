@@ -10,9 +10,16 @@ namespace Laboratorio_4_Facade_
     {
         public void ModelNo()
         {
+            Console.WriteLine("Raquetball: GearBox");
         }
         public void Price()
         {
+            Console.WriteLine("Price: 245$");
+
+        }
+        public void Shape()
+        {
+            Console.WriteLine("Shape:(T) Drop");
         }
     }
 }

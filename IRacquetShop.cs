@@ -10,5 +10,6 @@ namespace Laboratorio_4_Facade_
     {
         void ModelNo();
         void Price();
+        void Shape();  
     }
 }

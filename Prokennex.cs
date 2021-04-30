@@ -10,9 +10,16 @@ namespace Laboratorio_4_Facade_
     {
         public void ModelNo()
         {
+            Console.WriteLine("Raquetball: Prokennex");
         }
         public void Price()
         {
+            Console.WriteLine("Price: 210$");
+
+        }
+        public void Shape()
+        {
+            Console.WriteLine("Shape:(Q) square");
         }
     }
 }

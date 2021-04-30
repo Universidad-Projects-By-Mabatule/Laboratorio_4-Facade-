@@ -1,0 +1,7 @@
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\bin\Debug\Laboratorio_4(Facade).exe.config
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\bin\Debug\Laboratorio_4(Facade).exe
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\bin\Debug\Laboratorio_4(Facade).pdb
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\obj\Debug\Laboratorio_4(Facade).csprojAssemblyReference.cache
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\obj\Debug\Laboratorio_4(Facade).csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\obj\Debug\Laboratorio_4(Facade).exe
+C:\Users\ALIENWARE M17 R3\Desktop\Universidad\Arqui soft\Laboratorio_4-Facode-\obj\Debug\Laboratorio_4(Facade).pdb
