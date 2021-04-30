@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Laboratorio_4_Facade_
 {
-    class Eforce
+    class Eforce:IRacquetShop
     {
+        public void ModelNo() {
+        }
+        public void Price() {
+        }
+
     }
 }

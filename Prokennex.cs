@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Laboratorio_4_Facade_
 {
-    class Prokennex
+    public class Prokennex : IRacquetShop
     {
+        public void ModelNo()
+        {
+        }
+        public void Price()
+        {
+        }
     }
 }

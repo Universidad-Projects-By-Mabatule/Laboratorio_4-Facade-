@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Laboratorio_4_Facade_
 {
-    public interface RacquetShop
+    public interface IRacquetShop
     {
         void ModelNo();
         void Price();
