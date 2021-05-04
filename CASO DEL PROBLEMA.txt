@@ -3,4 +3,4 @@ por lo tanto Juanito busca una tienda donde le brinde la marca de raqueta , mode
 
 
 Solucion
-Utilice el methodo facode porque es un facil de aplicar un divide y venceras para asi facilitar el codigo y le entendimiento del mismo
+Utilice el methodo facade porque es un facil de aplicar un divide y venceras para asi facilitar el codigo y le entendimiento del mismo
